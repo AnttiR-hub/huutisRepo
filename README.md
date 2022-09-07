@@ -1,2 +1,2 @@
 # huutisRepo
-Repository for Huutoäänestyäppi (name pendeing)
+Repository for Huutoäänestyäppi (name pending)
